@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Six great matters of note. Videlizet, first, two petitions of the Lords and Commons to his Majestie: February, 2. 1641. 2. His Majesties answere to the two petitions of the Lords and Commons delivered, as aforesaid. 3. His Majesties consent for the Princesse Maries going to Holland. 4. Her Majesties answer to a message of both Houses. 5. His Majesties message to the House of Commons. February, 7. 1641. 6. The humble answere of the honourable House of Commons to the kings last message, as aforesaid; in defence of the speech lately spoken by Mr. Pymm.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93305</idno><idno type="EEBO-CITATION">99872101</idno>
+  <idno type="VID">156450</idno>
+  <idno type="EEBO-PROQUEST">2248513124</idno>
+  
+            <idno type="STC">Wing S3913</idno>
+            <idno type="STC">Thomason E135_32</idno>
+            <idno type="STC">ESTC R2572</idno>
+            <idno type="PROQUEST">99872101</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99872101e"/>
+            <note>(EEBO-TCP ; phase 2, no. A93305)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156450)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 24:E135[32])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Six great matters of note. Videlizet, first, two petitions of the Lords and Commons to his Majestie: February, 2. 1641. 2. His Majesties answere to the two petitions of the Lords and Commons delivered, as aforesaid. 3. His Majesties consent for the Princesse Maries going to Holland. 4. Her Majesties answer to a message of both Houses. 5. His Majesties message to the House of Commons. February, 7. 1641. 6. The humble answere of the honourable House of Commons to the kings last message, as aforesaid; in defence of the speech lately spoken by Mr. Pymm.</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I).</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. O. and G. D. for F. Coules,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Mary, --  Princess Royal of England, 1631-1660.</term>
+               <term type="personal_name">Pym, John, 1584-1643.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156450:1"/>
+            <p>SIX GREAT MATTERS OF NOTE.</p>
+            <list>
+               <item>
+                  <hi>Ʋidelizet,</hi> First, two <hi>Petitions</hi> of the LORDS and COMMONS to his <hi>Majestie: February,</hi> 2. 1641.</item>
+               <item>2. His <hi>Majesties</hi> Answere to the two <hi>Petitions</hi> of the <hi>Lords</hi> and <hi>Commons</hi> delivered, as aforesaid.</item>
+               <item>3. His <hi>Majesties</hi> Consent for the Princesse <hi>Maries</hi> going to <hi>Holland.</hi>
+               </item>
+               <item>4. Her <hi>Majesties</hi> Answer to a <hi>Message</hi> of both <hi>Houses.</hi>
+               </item>
+               <item>5. His <hi>Majesties Message</hi> to the <hi>House</hi> of <hi>Commons. February,</hi> 7. 1641.</item>
+               <item>6. The humble <hi>Answere</hi> of the Honourable <hi>House</hi> of <hi>Commons</hi> to the Kings last <hi>Message,</hi> as aforesaid; in defence of the Speech lately spoken by Mr. PYMM.</item>
+            </list>
+            <figure>
+               <figDesc>arms of Charles I</figDesc>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+            </figure>
+            <p>Printed by <hi>R. O.</hi> and <hi>G. D.</hi> for <hi>F. Coules.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_petition">
+            <pb facs="tcp:156450:2"/>
+            <pb n="1" facs="tcp:156450:2"/>
+            <head>TO THE KINGS MOST EXCELLENT MAIESTIE.</head>
+            <head type="sub">
+               <hi>The humble Petition of the</hi> Lords <hi>and</hi> Commons <hi>now assembled in</hi> PARLIAMENT.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He present Evils and Calamities where<g ref="char:EOLhyphen"/>with your Kingdomes are most miserably in<g ref="char:EOLhyphen"/>tangled, the eminent dangers which threaten your Royall person, and all your people, have caused us your most faithfull and obedient sub<g ref="char:EOLhyphen"/>jects, the <hi>Lords</hi> and <hi>Commons</hi> in this present <hi>Parliament,</hi> with thank fulnes to entertaine, and with all earnestnes of affection and endeavour to pursue the gra<g ref="char:EOLhyphen"/>cious proposition and direction which not long since we have re<g ref="char:EOLhyphen"/>ceived from your Majestie: and we have therupon taken into our most serious consideration, the wayes and meanes of securing the safety of your royall person, preserving the Honour and Authori<g ref="char:EOLhyphen"/>ty of your Crowne, removing all jealousies betwixt your Majestie and your people, suppressing the rebellion in <hi>Ireland,</hi> preventing the feares and dangers in this Kingdome, and the mischievous Designes of those who are enemies to the peace of it. And that we may with more comfort and security accomplish our duties herein, we most humbly beseech your Majestie, That you will be pleased forth-with to put the Tower of London, and all other <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orts and whole <hi>Militia</hi> of the Kingdome, into the hands of such persons as shall bee recommended unto your Majestie by both Houses of <hi>Parliament,</hi> which they assure themselves will bee a hopefull entrance into those courses, which (through Gods bles<g ref="char:EOLhyphen"/>blessing
+<pb n="2" facs="tcp:156450:3"/> shall be effectuall for the removing of all diffidence and mis-apprehension betwixt your Majestie and your People; and for establishing and enlarging the Honour, greatnesse, and power of your Majestie and royall posterity, and for the restoring and confirming the peace and happinesse of loyall subjects in all your Dominions.</p>
+            <p>And to this our most necessary <hi>Petition</hi> we in all humilitie ex<g ref="char:EOLhyphen"/>pect your Majesties speedy and gracious answer, the great distra<g ref="char:EOLhyphen"/>ct<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ons and distempers of the Kingdome, not admitting any delay.</p>
+         </div>
+         <div type="Parliamentary_petition">
+            <head>To the KINGS most excellent <hi>Majestie.</hi>
+            </head>
+            <head type="sub">
+               <hi>The humble</hi> Petition <hi>of the</hi> Lords <hi>and</hi> Commons <hi>now assembled in PARLIAMENT.</hi>
+            </head>
+            <opener>Sheweth,</opener>
+            <p>THat whereas your Majesty by a <hi>Message</hi> sent to both Houses of <hi>Parliament,</hi> signified an apprehe<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ion of some Treasona<g ref="char:EOLhyphen"/>ble matter to have beene committed by the Lord <hi>Kymbol<g ref="char:EOLhyphen"/>ton,</hi> Mr. <hi>Hollis,</hi> Sir <hi>Arthur Hazlerig,</hi> Mr. <hi>Pym,</hi> Mr. <hi>Hampdem,</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Mr. <hi>Strode;</hi> and thereby declared your Majesties intention to proceed against them in an unquestionable way. We the <hi>Lords</hi> and <hi>Commons</hi> in this present <hi>Parliament</hi> assembled, did make our humble Petition to your Majesty, to beseech your Majestie to give directions that your <hi>Parliament</hi> might be informed before Tues<g ref="char:EOLhyphen"/>day then next ensuing, what proofe there was against them, that accordingly there might be legall and Parliamentary proceeding against them, whereby they might be brought to condigne pu<g ref="char:EOLhyphen"/>nishment, if guilty; or discharged from so heavy an accusation if innocen<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: And whereas your Majestie was graciously pleased Answer to <hi>Petition</hi> to express your good approbation of the Hou<g ref="char:EOLhyphen"/>ses for the sp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>edy proceeding against the persons in that petiti<g ref="char:EOLhyphen"/>on mentioned; yet your Majestie gave no other satisfaction to their d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sire then this; That your Majestie held it necessary, lest a new mistake shou<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d breed more delayes that it should bee resolved, whether your Majestie were bound in respect of privi<g ref="char:EOLhyphen"/>ledges to proceed against them by impeachment in that Parlia<g ref="char:EOLhyphen"/>ment, or to be left at libertie to prefer an Indictment at the Com<g ref="char:EOLhyphen"/>mon law, in the usuall way to have your choice of either; and we finding still that there is no legall and Parliamentary procee<g ref="char:EOLhyphen"/>dings
+<pb n="3" facs="tcp:156450:3"/> against them, and that they still lie under the burden of that high Charge. We think it our duty once againe to beseech your Maiesty to give direction, that your parliament may be informed before Friday next, what proofe there is against them, that accor<g ref="char:EOLhyphen"/>dingly they may be called to a legall Triall, it being the undoubted right and priviledge of parliament, That no member of parlia<g ref="char:EOLhyphen"/>ment can be proceded against without the consent of parliament. And this we most humbly conceive our selves obliged to aske, it being no lesse agreeable with Justice, to have the innocency of parties uniustly charged, manifested, then to bring the nocent to their iust puishment.</p>
+         </div>
+         <div type="Royal_response">
+            <head>
+               <hi>His Majesties answer to two Petitions of the Lords and Commons delivered,</hi> Febr. 2. 1641.</head>
+            <p>HIs Maiesty having well considered of the two severall Peti<g ref="char:EOLhyphen"/>tions, presented unto him on Wednesday the second of this moneth, from both Houses of Parliament, and being desirous to expresse how willing he is to apply a remedy, not only to your dangers, but to your doubts and feares; he therefore, to that Peti<g ref="char:EOLhyphen"/>tion which concernes the Forts and <hi>Militia</hi> of this Kingdome, returnes this answere; That when he shall know the extent of power which is intended to be established in those persons, whom you desire to be the Commanders of the <hi>Militia</hi> in severall Coun<g ref="char:EOLhyphen"/>ties; and likewise to what time it shall be limitted, that no power shall be executed by his Maiesty alone, without the advice of Parliament,</p>
+            <p>Then he will declare, That (for the securing you from all d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<g ref="char:EOLhyphen"/>gers of iealousies of any) His Maiesty will be content to put in all the places, both of Forts and <hi>Militia</hi> in the severall Counties, such persons as both the Houses of parliament shall either approve or recommend, unto him, so that you declare before unto his Maie<g ref="char:EOLhyphen"/>stie, the names o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the persons whom you approve <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r recommend: unlesse such persons shall be nam<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, against whom he shall have iust and unqu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>stionable excep<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ions.</p>
+            <p>To the other petition, concerning the members of either House, His Maiesty returnes this answer, That he once conceived, that he had gr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>und enough to accuse them, so now his Maiesty findes as good ca<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se whol<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y to desert any prosecution of th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m.</p>
+            <pb n="4" facs="tcp:156450:4"/>
+            <p>And for a further testimony of his Majesties reall Intention to<g ref="char:EOLhyphen"/>wards all his loving Subjects (some of whom haply may be invol<g ref="char:EOLhyphen"/>ved in some unknown and unwilling errors.) For better composing and setling all feares and jealousies, of what kind soever, His Maie<g ref="char:EOLhyphen"/>stie is ready to grant as free and generall a Pardon for the full con<g ref="char:EOLhyphen"/>tentment of all his loving Subiects, as shall by the approbation of both Houses of <hi>Parliament</hi> be thought cōvenient for that purpose.</p>
+         </div>
+         <div type="Royal_consent">
+            <head>
+               <hi>His Majesties consent for the Princesse</hi> Maries <hi>going to</hi> Holland; <hi>And her Majesty to accompany her thither.</hi>
+            </head>
+            <p>HIs Maiesty being very much pressed by the States Ambassa<g ref="char:EOLhyphen"/>dor to send the Princesse his Daughter immediately into <hi>Holland;</hi> and being likewise earnestly desired by his royall Consort, the Queen, to give her Maiesty leave to accompany <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er Daughter thither; hath thought fit to consent to both desires, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd to make this his Maiesties resolution knowne to his Parliament.</p>
+         </div>
+         <div type="Royal_response">
+            <head>Her Majesties Answer to a Message of both Houses.</head>
+            <p>THe Queene having received a message from both houses of Parliament by the Earle of <hi>Newport</hi> and the Lord <hi>Seymoure,</hi> intimating unto her, that she had bin told that the House of Com<g ref="char:EOLhyphen"/>mons had an intention to accuse her of high Treason, and that Arti<g ref="char:EOLhyphen"/>cles to that purpose had bin shewed unto her, returns this answer,</p>
+            <p>That there was a generall report of an Accusation intended against her, but she never saw any Articles in writing, and having no certain Author, either for the one, or for the other, shee gave little credit thereunto, and much lesse now being assured from the House of Commons that never any such thing came into their thoughts.</p>
+            <p>Nor will she believe they would lay an aspersion upon her, who hath ever bin very unapt so far to misconstrue the actions of any one person, and much more the proceedings of Parliament, and shall at all times wish a happy understanding betweene the King and his people.</p>
+         </div>
+         <div type="Royal_message">
+            <pb n="5" facs="tcp:156450:4"/>
+            <head>
+               <hi>His Majesties Message to the House of Common<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, FEBRƲARY</hi> 7. 1641.</head>
+            <p>HIS Majesty taking notice of a Speech, pretending in the Title to have beene de<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ivered by Master <hi>Pym</hi> in a Confe<g ref="char:EOLhyphen"/>rence, and prin<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed by Order of the House of Commons, in which it is affirmed, That since the stop upon the Ports against all <hi>Irish Papists</hi> by both Houses, many of the chiefe Commanders, now in the head of the Rebels, have beene suffered to passe by His Majesties immediate Warrant; And being very certaine of having used extreme caution in the granting of <hi>Passeports</hi> into <hi>Ireland;</hi> So that He conceives, either this Paper not to have beene so delivered and pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nted as it prete<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s, or this House to have re<g ref="char:EOLhyphen"/>ceived some mis-information;</p>
+            <p>His Majesty would be resolved, Whether this Speech were so delivered and print<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, and if it were, would have this House to review upon what Informations that particular was grounded, that either that may be found upon re-examination to have been false, and both this House and his Majesty injured by it; Or that his Majestie may know by what meanes, and by whose fault, His Au<g ref="char:EOLhyphen"/>thority hath beene so highly abused, as to be made to conduce to the assistance of that Rebellion, which Hee so much detests and abhors, and that He may see Himselfe fully vindicated from all reflections of the least suspicion of that kinde.</p>
+         </div>
+         <div type="Parliamentary_response">
+            <head>
+               <hi>The Humble Answer of the Honourable House of Commons to the Kings</hi> Ma<seg rend="sup">ties▪</seg>
+               <hi>last Message,</hi> FEB. 7. 1641. <hi>In defence of the Speech lately spoken by</hi> M<seg rend="sup">r.</seg> PYM.</head>
+            <p>YOur Majesties most loyall and faithfull Subjects, the Com<g ref="char:EOLhyphen"/>mons now assembled in Parliament, have taken into their serious consideration the message received from your Majesty the 7<seg rend="sup">th</seg> of this instant <hi>February,</hi> And doe acknowledge that the Speech therein mentioned to be delivered by Master <hi>Pym</hi>
+               <pb n="6" facs="tcp:156450:5"/> in a Conference, was printed by their Order, and that what was therein delivered, was agreeable to the sense of the House: And touching that passage wherein it is affirmed, that since the stop upon the Po<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ts against <hi>Irish Papists,</hi> by both Houses, many of the chi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mmanders now in the h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad of the Rebels, have beene suff<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>red to passe by your Majesties immediate Warrants. They pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt your Majesty with this their humble Answer:</p>
+            <p>THat they have received divers advertisements concerning severall persons, <hi>Irish</hi> and other Papists, which have obtained your Majesties immediate▪ Warrants for their passing into <hi>Ireland,</hi> since the Order of restraint of both Houses; some of which, as they have beene informed, (since their comming into <hi>Ireland</hi>) have joyned with▪ the Rebells, and beene Command<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s amongst them, and some others have beene stayed, and are yet in safe custody: Particularly, the Lord <hi>Delvin,</hi> and foure other per<g ref="char:EOLhyphen"/>sons in his company, whereof one is thought to be a <hi>Priest.</hi> One <hi>Collonel Butler,</hi> brother to the Lord <hi>Montgarat,</hi> now in rebellion, and Sir <hi>George Hamilton,</hi> all which are <hi>Papists,</hi> and one other (as is reported) being sonne of the Lord <hi>Nettersfield,</hi> whose father and brother are both in rebellion. The particular names of others we have not yet received, but doubt not but upon examination they may be discovered.</p>
+            <p>And your Majesties most faithfull Subjects are very sorry, that the extreme caution which your Majesty hath used, hath beene so ill seconded with the diligence and faithfulnesse of you Mini<g ref="char:EOLhyphen"/>nisters. And that your Royall Authority should be so highly abused, although (as it was exprest in that Speech by Master <hi>Pym</hi>) we believe, it was by the procureruent of some evill instruments too neere your Royall Person, without your Majesties knowledge and intention. And we beseech yuor Majesty to take such course, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat not onely your Honour may be vindicated for the time past, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut your Kingdome may be secured from the like mischief for the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ime to come.</p>
+            <closer>
+               <dateline>Read, and by Vote upon the Question, assented unto.</dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
